@@ -1,0 +1,19 @@
+body { 
+    background: black;
+    padding: 30px;
+    align-content: center;
+    font-family: 'PT Sans Narrow';
+    
+}
+
+
+p { 
+    background: black;
+    color: crimson;
+    font: 16px;
+}
+header{
+    color: #FF8C00;
+    font: 24px;
+    font-family: fantasy;
+}
